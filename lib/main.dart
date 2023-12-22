@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:numbers_trivia/features/number_trivia/domain/repos/number_trivia_repo.dart';
 
 void main() {
   runApp(const MyApp());
